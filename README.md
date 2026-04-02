@@ -2,7 +2,7 @@
  
 **End-to-end retail data pipeline** - Python ETL -> PostgreSQL -> Power BI
 
-## 📊 Full Business Analysis & Insights -> [View on Notion](https://www.notion.so/AMAN-Data-Analyst-2afa64a6dd95808b97b5f73213a1eac4)
+## 📊 Full Business Analysis & Insights -> [View on Notion]()
  
 > The GitHub repository contains all technical code and pipeline documentation.
 > The **[Notion page](https://your-notion-page-link-here)** contains the full business analysis — problem statement, SQL insights, KPIs, recommendations, and key takeaways.
