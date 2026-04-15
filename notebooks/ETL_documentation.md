@@ -1,6 +1,8 @@
 
 # Data Analysis & ETL Pipeline
 
+👉 [Open Notebook - customer_shopping_behaviour.ipynb](./customer_shopping_behaviour.ipynb)
+
 ## Overview
  
 This notebook performs end-to-end data preparation and analysis on a **Customer Shopping Behaviour** dataset. 
