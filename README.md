@@ -14,7 +14,7 @@
 Raw CSV  -->  Python ETL -->  PostgreSQL  -->  SQL Analysis  -->  Power BI
 ```
  
-**ETL steps:** [ETL documentation]()
+**ETL steps:** [ETL documentation](notebooks/ETL_documentation.md)
 1. Load CSV (3,900 rows, 18 columns)
 2. Impute 37 missing `review_rating` values using category-level median
 3. Standardise column names to `snake_case`
