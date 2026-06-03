@@ -2,7 +2,7 @@
  
 **End-to-end retail data pipeline** - Python ETL -> PostgreSQL -> Power BI
 
-## 📊 Full Business Analysis & Insights -> [View on Notion]()
+## 📊 Full Business Analysis & Insights [ [View on Notion]() ]
  
 > The GitHub repository contains all technical code and pipeline documentation.
 > The **[Notion page](https://your-notion-page-link-here)** contains the full business analysis — problem statement, SQL insights, KPIs, recommendations, and key takeaways.
@@ -51,4 +51,4 @@ Run all cells in `notebooks/customer_shopping_behaviour.ipynb` top-to-bottom.
  
 ---
  
-📊 **Business insights, recommendations, and findings** → [Notion Page](https://your-notion-page-link-here)
+📊 **Business insights, recommendations, and findings** [[Notion Page](https://your-notion-page-link-here)]
