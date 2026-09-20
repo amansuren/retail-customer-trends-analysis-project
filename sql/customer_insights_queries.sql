@@ -34,10 +34,9 @@ LIMIT 10;
 
 -- ================= SUBSCRIPTION & LOYALTY =================
 
--- 5. [MERGED] Subscription status: customer counts, avg previous purchases,
---    avg spend, and total revenue in one query
---    (combines: "Customer Loyalty by Subscription Status" +
---     "Do subscribed customers spend more?")
+-- 5. Subscription status: customer counts, avg previous purchases,
+-- avg spend, and total revenue
+
 SELECT 
     subscription_status,
     COUNT(DISTINCT customer_id) AS total_customers,
