@@ -1,7 +1,5 @@
 # 🛍️ Customer Shopping Behaviour Analysis
  
-**End-to-end retail data pipeline** - Python ETL -> PostgreSQL -> Power BI
-
 ## 📊 Full Business Analysis & Insights [ [View on Notion]() ]
  
 > The GitHub repository contains all technical code and pipeline documentation.
